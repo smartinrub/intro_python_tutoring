@@ -3,7 +3,7 @@ Tutoring exercises for an introduction to Python
 
 ## Topics
 
-1. [Setting Up Your Programming Environment](setup_environment.md)
+1. [Setting Up Your Programming Environment](setting_up_your_programming_environment.md)
 
 ## Conventions
 
