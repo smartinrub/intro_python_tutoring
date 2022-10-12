@@ -7,3 +7,4 @@ Tutoring exercises for an introduction to Python
 2. Part 2: [Variables and Data Types](part2.md)
 3. Part 3: [Lists](part3.md)
 4. Part 4: [Loops](part4.md)
+5. Part 5: [Getting Started with Django](part5.md)
