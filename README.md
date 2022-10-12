@@ -1,10 +1,8 @@
 # intro-python-tutoring
 Tutoring exercises for an introduction to Python
 
-## Topics
+## Parts
 
-1. [Setting Up Your Programming Environment](setting_up_your_programming_environment.md)
-
-## Conventions
-
-- It's best to use lowercase letters and underscores for spaces in files and folder names, because Python uses there naming convections.
+1. Part 1: [Setting Up Your Programming Environment](part1.md)
+2. Part 2: [Variables and Data Types](part2.md)
+3. Part 3: [Lists](part3.md)

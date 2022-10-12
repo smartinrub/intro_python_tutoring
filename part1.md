@@ -62,3 +62,6 @@
     ```
 
     Go to your terminal and run `python hello_world.py` and it should print `Hello World`. You can also run it from PyCharm with the green arrow.
+
+    >It's best to use lowercase letters and underscores for spaces in files and folder names, because Python uses there naming convections.
+    
