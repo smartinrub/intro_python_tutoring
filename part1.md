@@ -51,6 +51,8 @@
     pyenv virtualenv 3.10.7 tutoring
     ```
 
+    >A virtual environment is a place on your system where you can install packages and isolate them from all other Python packages.
+
 6. Install [PyCharm](https://www.jetbrains.com/pycharm/)
 
 7. Configure Python virtual environment on PyCharm. Go to PyCharm>Preferences>Python Interpreter>Add Interpreter>Pyenv Environment and search for something like /Users/<mac_user>/.pyenv/versions/tutoring/bin/python
