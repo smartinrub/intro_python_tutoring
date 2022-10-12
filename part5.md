@@ -89,5 +89,6 @@ now we can run the server again with `python manage.py runserver` and hit the en
 
 ### Exercises
 
-1. Create endpoint that accepts first name and last name and returns full name. You can use path parameters like in the uppercase example.
-2. Create endpoint that accepts 
+1. Create `sports` app that with the following features, given a list of sports `sports = ['football', 'basketball', 'tennis', 'rugby']`:
+   1. GET endpoint `/api/sports/{int:index}` that returns the value for the given index in uppercase.
+   2. DELETE endpoint `/api/sports/{int:index}` that deletes a sport value at the given index.
